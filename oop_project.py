@@ -2,7 +2,7 @@ class Item:
 
     #class attribute ,it is accesible to all objects
     pay_rate=0.8  #payrate after after 20 percent disccount
-    all=[] # all is used to keep track of all instance of this class,since object creation invokes init 
+    all=[] # all is used to keep track of all instance of this class.
 
     '''price:int  denotes price parameter belongs to int class ,quanity=0 acts as default parameter \n
        if no argument is passed from object and also it denotes that quantity belongs to int class bcz it is assigned with integer '''
